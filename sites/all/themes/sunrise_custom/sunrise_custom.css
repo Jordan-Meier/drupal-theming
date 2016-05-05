@@ -1,3 +1,7 @@
 #header-banner-wrapper {
     background-image: url(image/water.jpeg);
 }
+
+.hover {
+    color: lightblue;
+}
