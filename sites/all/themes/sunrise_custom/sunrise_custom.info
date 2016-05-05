@@ -5,6 +5,8 @@ base theme = sunrise
 stylesheets[all][] = style.css
 stylesheets[all][] = sunrise_custom.css
 
+scripts[] = js/scripts.js
+
 regions[header_top_left] = Header Top Left
 regions[header_top_right] = Header Top Right
 regions[header] = Header
