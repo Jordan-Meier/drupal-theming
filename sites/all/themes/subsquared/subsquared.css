@@ -1,3 +1,7 @@
 #header-banner-wrapper {
     background-image: url(images/background.jpeg);
 }
+
+#main-navigation-inside{
+    border: none;
+}
